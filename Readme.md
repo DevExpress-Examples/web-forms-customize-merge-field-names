@@ -31,7 +31,7 @@ The event arguments contain the [MergeFieldNames](https://docs.devexpress.com/Of
 - [Rich Text Editor for ASP.NET Web Forms - How to change the mail merge data sources at runtime](https://github.com/DevExpress-Examples/aspxrichedit-how-to-change-the-mail-merge-data-sources-at-runtime-t542064)
 - [Rich Text Editor for ASP.NET Web Forms - How to merge several documents content into a single document](https://github.com/DevExpress-Examples/aspxrichedit-how-to-merge-several-documents-content-into-a-single-document-t540811)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-customize-merge-field-names&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-customize-merge-field-names&~~~was_helpful=no)
 
